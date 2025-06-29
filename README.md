@@ -15,8 +15,8 @@ NVR is a simple, lightweight camera recorder app built in Python and Flask desig
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/linuskang/nvr.git
+cd nvr
 ```
 
 2. Create and activate a virtual environment:
